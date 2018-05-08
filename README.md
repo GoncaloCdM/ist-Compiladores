@@ -8,7 +8,6 @@
 
 Nota: 20/20
 
-
 # xpl compiler
 
-[xpl manual](https://www.l2f.inesc-id.pt/~david/w/pt/Compiladores/Projecto_de_Compiladores/Projecto_2016-2017/Manual_de_Refer%C3%AAncia_da_Linguagem_XPL)
+[xpl manual](https://github.com/pmorvalho/ist-Compiladores/blob/master/manual_referencia.pdf)
